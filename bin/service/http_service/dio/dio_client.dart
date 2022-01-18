@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 import '../../../constant/app.dart' as app;
-import '../../../domain/exception/exception/dio_exception.dart';
+import '../../../domain/exception/dio_exception.dart';
 import 'package:dartz/dartz.dart';
 
 class DioClient {

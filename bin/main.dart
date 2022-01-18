@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:dartz/dartz.dart';
-import 'domain/exception/exception/dio_exception.dart';
+import 'domain/exception/dio_exception.dart';
 import 'domain/response/user_response.dart';
 import 'repository/user/user_repository_impl.dart';
 
