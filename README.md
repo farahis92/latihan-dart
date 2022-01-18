@@ -1,2 +1,1 @@
-# latihan-dart
- dart
+A simple command-line application.
